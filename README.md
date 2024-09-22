@@ -1,16 +1,28 @@
-# test_state_manage1
+# Provider Package with Examples
 
-A new Flutter project.
+>Android. Simple Code
+>Use Provider Package wih neat and clean code with multiple examples
+
+
+## Demo
+>Provider Package with different examples
+
+
+
+
+>Counter Screen
+
+![](count.png)
+
+>Color opacity change with slider
+
+![](color-with-slider.png)
+
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+clone this repo
+```
+git clone https://github.com/naumansamtia/provider-with-examples.git provider_with_examples
+```
+## Connect With Me
+Nauman Samtia– [@NaumanSamtia](https://www.linkedin.com/in/naumansamtia/) – naumansamtia3@gmail.com

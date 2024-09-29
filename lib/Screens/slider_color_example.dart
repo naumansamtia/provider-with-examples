@@ -14,7 +14,7 @@ class _SliderColorExampleState extends State<SliderColorExample> {
   double value = 1.0;
   @override
   Widget build(BuildContext context) {
-    final sliderValueProvider = Provider.of<SliderValueProvider>(context, listen: false);
+    // final sliderValueProvider = Provider.of<SliderValueProvider>(context, listen: false);
     print('main widget');
     return Scaffold(
       appBar: AppBar(

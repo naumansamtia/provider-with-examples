@@ -18,6 +18,11 @@
 
 ![](color-with-slider.png)
 
+>Favorite Screen with Provider
+
+![](fav1.png)
+![](fav2.png)
+
 
 ## Getting Started
 clone this repo
